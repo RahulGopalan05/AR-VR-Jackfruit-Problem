@@ -10,14 +10,14 @@ This project is a web-based 3D simulation that allows users to interactively sli
 ## 🚀 How to Run
 
 1. **Install Dependencies**
+```
 npm install
-
-text
+```
 
 2. **Run Development Server**
+```
 npm run dev
-
-text
+```
 
 3. Open your browser (usually at `http://localhost:5173`).
 
