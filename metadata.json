@@ -1,0 +1,5 @@
+{
+  "name": "Interactive Mesh Cutter",
+  "description": "A real-time simulation of cutting a deformable mesh, like a rug. Click and drag on the rug to cut it, and watch the pieces separate and fall with realistic physics.",
+  "requestFramePermissions": []
+}
