@@ -1,1 +1,0 @@
-# AR-VR-Mesh-Cutting-using-3js
